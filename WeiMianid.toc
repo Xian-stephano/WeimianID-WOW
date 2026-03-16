@@ -1,0 +1,10 @@
+﻿## Interface: 120000
+## Title: WeiMianID
+## Notes: WeiMianID
+## Title-zhCN: |c0066ffffWeiMianID 显示当前位面编号|r
+## Notes-zhCN: |cFF34A2F7使用说明：鼠标扫过任意NPC以获得当前位面编号。|cff40ff40绿色数字|r表示|cff40ff40PVE|r位面，|cffff4040红色数字|r表示|cffff4040PVP|r位面。|n|cFFFFCC00框体丢失时：|r输入 |cffffff00/wmreset|r 重置框体位置|r
+## Author: 玻尔兹曼常数@末日行者-CN
+## Version: v1.0
+## SavedVariables: WeiMianIDDB
+
+WeiMianID.lua
